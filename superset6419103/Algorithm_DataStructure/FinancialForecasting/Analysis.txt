@@ -1,0 +1,9 @@
+ Time Complexity:
+Every recursive call reduces years by 1.
+Total calls = n → so, Time Complexity = O(n)
+
+Space Complexity:
+Due to recursive calls on the call stack, Space Complexity = O(n)
+
+Problem:
+For large n (like 10,000 years), recursion could cause a stack overflow error.
