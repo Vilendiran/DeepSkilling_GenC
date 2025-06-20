@@ -16,5 +16,4 @@ This will be corrected in future weeks to maintain consistency.
 
 ---
 
-## 📁 Repository Structure
 
