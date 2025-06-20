@@ -1,0 +1,8 @@
+For Linear Search: O(n)
+Good for small datasets or when list is unsorted.
+
+For Binary Search: O(log n)
+Much faster, but requires the list to be sorted.
+
+If the product list is frequently changing (insertions, deletions), linear search can be acceptable.
+But for the large, mostly static datasets where performance matters, binary search is preferred due to log(n) time.
